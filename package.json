@@ -31,7 +31,7 @@
     ],
     "require": [
       "babel-register",
-			"babel-polyfill"
+      "babel-polyfill"
     ],
     "babel": "inherit"
   },
@@ -89,6 +89,7 @@
     "conventional-changelog-lint": "1.0.1",
     "conventional-recommended-bump": "0.3.0",
     "dependency-check": "2.6.0",
+    "lodash": "4.15.0",
     "parallelshell": "2.0.0",
     "xo": "0.16.0"
   },
