@@ -11,7 +11,7 @@
     "clean": "rm -rf distribution",
     "prepare": "mkdir -p distribution",
     "build": "babel source --out-dir distribution",
-    "test": "npm run deps && xo source/**/*.js && ava",
+    "test": "npm run build && npm run deps && xo source/**/*.js && ava",
     "deps": "dependency-check . --missing && dependency-check . --no-dev --extra",
     "watch": "ava --watch",
     "commitmsg": "conventional-changelog-lint -e",
