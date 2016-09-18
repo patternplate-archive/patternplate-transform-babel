@@ -15,7 +15,7 @@ function babelTransform(file, _, configuration) {
 		});
 	}
 
-	return file;
+	return Promise.resolve(file);
 }
 
 function walk(dependencyTree, predecate) {
