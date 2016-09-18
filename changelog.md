@@ -1,3 +1,13 @@
+<a name="0.2.1"></a>
+## [0.2.1](https://github.com/sinnerschrader/patternplate-transform-babel/compare/v0.2.0...v0.2.1) (2016-09-18)
+
+
+### Bug Fixes
+
+* return a promise from transform ([#1](https://github.com/sinnerschrader/patternplate-transform-babel/issues/1)) ([5680527](https://github.com/sinnerschrader/patternplate-transform-babel/commit/5680527))
+
+
+
 <a name="0.2.0"></a>
 # [0.2.0](https://github.com/sinnerschrader/patternplate-transform-babel/compare/v0.1.1...v0.2.0) (2016-09-18)
 
