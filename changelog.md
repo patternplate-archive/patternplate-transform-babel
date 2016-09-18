@@ -1,3 +1,24 @@
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/sinnerschrader/patternplate-transform-babel/compare/v0.2.0...v1.0.0) (2016-09-18)
+
+
+### Bug Fixes
+
+* return a promise from transform ([#1](https://github.com/sinnerschrader/patternplate-transform-babel/issues/1)) ([5680527](https://github.com/sinnerschrader/patternplate-transform-babel/commit/5680527))
+
+
+### Chores
+
+* update babel-core to version 6 ([#2](https://github.com/sinnerschrader/patternplate-transform-babel/issues/2)) ([383aa6f](https://github.com/sinnerschrader/patternplate-transform-babel/commit/383aa6f))
+
+
+### BREAKING CHANGES
+
+* inherits all breaking changes imposed by babel 5 to 6
+transition
+
+
+
 <a name="0.2.0"></a>
 # [0.2.0](https://github.com/sinnerschrader/patternplate-transform-babel/compare/v0.1.1...v0.2.0) (2016-09-18)
 
