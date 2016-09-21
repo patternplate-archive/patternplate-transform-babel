@@ -1,3 +1,13 @@
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/sinnerschrader/patternplate-transform-babel/compare/v1.0.0...v1.1.0) (2016-09-21)
+
+
+### Features
+
+* dedupe flattened dependencies, memoize transforming ([9f8f78e](https://github.com/sinnerschrader/patternplate-transform-babel/commit/9f8f78e))
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/sinnerschrader/patternplate-transform-babel/compare/v0.2.0...v1.0.0) (2016-09-18)
 
