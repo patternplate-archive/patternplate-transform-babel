@@ -1,3 +1,13 @@
+<a name="1.1.1"></a>
+## [1.1.1](https://github.com/sinnerschrader/patternplate-transform-babel/compare/v1.1.0...v1.1.1) (2016-10-10)
+
+
+### Bug Fixes
+
+* transform only dependencies recursively that show up in source ([#3](https://github.com/sinnerschrader/patternplate-transform-babel/issues/3)) ([7e7771f](https://github.com/sinnerschrader/patternplate-transform-babel/commit/7e7771f))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/sinnerschrader/patternplate-transform-babel/compare/v1.0.0...v1.1.0) (2016-09-21)
 
