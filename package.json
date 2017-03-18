@@ -90,7 +90,7 @@
     "conventional-recommended-bump": "0.3.0",
     "dependency-check": "2.8.0",
     "parallelshell": "2.0.0",
-    "xo": "0.17.1"
+    "xo": "0.18.0"
   },
   "dependencies": {
     "babel-core": "6.23.1",
