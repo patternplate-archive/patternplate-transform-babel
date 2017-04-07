@@ -93,7 +93,7 @@
     "xo": "0.18.0"
   },
   "dependencies": {
-    "babel-core": "6.23.1",
+    "babel-core": "6.24.1",
     "lodash": "4.17.4",
     "md5": "2.2.1",
     "precinct": "3.6.0"
