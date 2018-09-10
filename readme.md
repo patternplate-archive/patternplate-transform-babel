@@ -1,3 +1,6 @@
+> # ⚠️ Deprecated
+> Use instead: https://patternplate.github.io/
+
 # patternplate-transform-babel
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/sinnerschrader/patternplate-transform-babel.svg)](https://greenkeeper.io/)
